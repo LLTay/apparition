@@ -1,1 +1,1 @@
-https://lltay.github.io/apparition/
+apparition
